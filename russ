@@ -1,0 +1,4 @@
+>>> string = u"проверка русс. исх. строка в утф-8"
+>>> string = string.encode('ISO_IR 144')
+>>> ds.PatientsName=string
+>>> ds.SaveAs('ss.dcm')
