@@ -89,7 +89,8 @@ def ConvertAndUpload(filename,dic,logging,cfg):
     """	
 def Run(cmd):	
     p = subprocess.Popen(\
-        cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, \
+	env={"DCMDICTPATH": "./dicom.dic"} )
     (stdout, stderr) = p.communicate()
     rv = p.returncode
     if (rv <> 0):
