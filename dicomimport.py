@@ -20,7 +20,7 @@ logging.getLogger('PyQt4.uic').setLevel(logging.INFO)   #фильтруем де
 logging.debug('\nApp started')
 
 try:
-  from qqPyQt4 import QtCore,QtGui,uic
+  from PyQt4 import QtCore,QtGui,uic
   import dicom
 except ImportError:
   errmess='ERROR-QtCore,QtGui,uic or dicom not found'
@@ -244,13 +244,13 @@ def main():
     httpd = server_class((cfg.httpdhost, int(cfg.httpdport)), MyHandler)
     print time.asctime(), "Server Started - %s:%s" % (cfg.httpdhost, cfg.httpdport)
     try:
-	  httpd.serve_forever()
-	  print 'httpd stopped..'
+      httpd.serve_forever()
+      print 'httpd stopped..'
     except KeyboardInterrupt:
-	  pass
+      pass
     except Exception:
-	  print 'unknown err'
-    httpd.server_close()
+      print 'unknown err'
+      httpd.server_close()
     print time.asctime(), "Server Stopped - %s:%s" % (cfg.httpdhost, cfg.httpdport)
 
 
