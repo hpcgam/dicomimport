@@ -127,7 +127,7 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
                     
             # действия, производимые по нажатию кнопки Ок - попытка сконвертировать и загрузить дайком файлы на сервер
             def onOkButt():
-
+                widget.label_4.setText(u"Отчет о загрузке:")
                 widget.buttonBox.button(QtGui.QDialogButtonBox.Ok).setDisabled(True)
                 #self.pat_rec['Modality']=string.split( str( widget.comboBox.currentText().toUtf8() ))[0]
                 self.pat_rec['Modality']=string.split( unicode( widget.comboBox.currentText() ))[0]
@@ -243,6 +243,7 @@ def main():
     server_class = BaseHTTPServer.HTTPServer
     httpd = server_class((cfg.httpdhost, int(cfg.httpdport)), MyHandler)
     print time.asctime(), "Server Started - %s:%s" % (cfg.httpdhost, cfg.httpdport)
+    print "Destination server: "+cfg.dcmhost+", AE title: "+cfg.dcmaetitle+"\nAll ok, waiting..."
     try:
       httpd.serve_forever()
       print 'httpd stopped..'

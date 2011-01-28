@@ -1,7 +1,7 @@
 [cfg]
 workdir = ./
-dcmaetitle = DCM4CHEE
-dcmhost = 192.168.0.7
+dcmaetitle = DCM4-local-eug
+dcmhost = localhost
 httpdhost = localhost
 httpdport = 9966
 logfn = ./store.log

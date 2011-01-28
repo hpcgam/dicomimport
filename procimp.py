@@ -16,6 +16,7 @@ def ConvertAndUpload(filename,dic,logging,cfg):
 
     # gdcmimg для обработки джпег 2к.
     cstr="./gdcmimg -V "+filename+" "+filenamedcm
+    #cstr="./gdcmimg -V --depth 8 "+filename+" "+filenamedcm
 
     if Run([cstr]):
         logging.debug("Conversion of "+filename+" failed. The reason above.")
@@ -48,6 +49,7 @@ def ConvertAndUpload(filename,dic,logging,cfg):
     ds.StationName=dic['usr_comp'].encode('ISO_IR 144')
     ds.OperatorsName=dic['pat_login'].encode('ISO_IR 144')
     ds.AcquisitionDate=dic['DateImportStudy']
+    ds.PhotometricInterpretation='RGB' #dirty hack for 07 server
     ds.SaveAs(filenamedcm)
 
 ##############################################################################
