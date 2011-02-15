@@ -101,6 +101,7 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
         self.pat_rec['pat_bdate'] = tmpt[2]+tmpt[1]+tmpt[0]	#reverse date to yyyymmdd
         
         dialog = QtGui.QFileDialog()
+#        dialog.setFileMode(QtGui.QFileDialog.AnyFile)
         dialog.setFileMode(QtGui.QFileDialog.ExistingFiles)
         dialog.setNameFilters(["Jpeg files (*.jpeg *.jpg)", "All (*)"])
         

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+X-SuSE-translate=true
+Name=DicomImport
+GenericName=script
+Comment=script for export jpgs to dicom.
+Terminal=true
+Type=Application
+MimeType=text/plain;
+OnlyShowIn=KDE;
+
+createForAll=true
+
+#Icon=/home/user/Komodo-Edit-6/share/icons/komodo48.png

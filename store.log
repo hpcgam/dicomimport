@@ -1,0 +1,2875 @@
+Fri, 28 Jan 2011 16:21:32 DEBUG 
+App started
+Птн, 28 Янв 2011 16:21:46 DEBUG 
+Loader started, begin processing: /home/user/work/jpegsampleруссианфиленаме.jpg
+Птн, 28 Янв 2011 16:21:46 DEBUG Coversion /home/user/work/jpegsampleруссианфиленаме.jpg SEEMS OK.
+Птн, 28 Янв 2011 16:21:46 DEBUG Reading file './jpegsampleруссианфиленаме.jpg.dcm'
+Птн, 28 Янв 2011 16:21:46 DEBUG Reading preamble
+Птн, 28 Янв 2011 16:21:47 DEBUG ./jpegsampleруссианфиленаме.jpg.dcm Stored OK.
+Mon, 31 Jan 2011 11:27:34 DEBUG 
+App started
+Mon, 31 Jan 2011 11:28:55 DEBUG 
+App started
+Mon, 31 Jan 2011 11:30:16 DEBUG 
+App started
+Mon, 31 Jan 2011 11:33:56 DEBUG 
+App started
+Fri, 04 Feb 2011 15:18:11 DEBUG 
+App started
+Fri, 04 Feb 2011 15:19:17 DEBUG 
+App started
+Птн, 04 Фев 2011 15:19:54 DEBUG 
+Loader started, begin processing: /home/user/work/jpegsample.jpg
+Птн, 04 Фев 2011 15:19:54 DEBUG Coversion /home/user/work/jpegsample.jpg SEEMS OK.
+Птн, 04 Фев 2011 15:19:54 DEBUG Reading file './jpegsample.jpg.dcm'
+Птн, 04 Фев 2011 15:19:54 DEBUG Reading preamble
+Птн, 04 Фев 2011 15:19:55 DEBUG ./jpegsample.jpg.dcm Stored OK.
+Птн, 04 Фев 2011 15:19:55 DEBUG 
+Loader started, begin processing: /home/user/work/jpegsampleруссианфиленаме.jpg
+Птн, 04 Фев 2011 15:19:55 DEBUG Coversion /home/user/work/jpegsampleруссианфиленаме.jpg SEEMS OK.
+Птн, 04 Фев 2011 15:19:55 DEBUG Reading file './jpegsampleруссианфиленаме.jpg.dcm'
+Птн, 04 Фев 2011 15:19:55 DEBUG Reading preamble
+Птн, 04 Фев 2011 15:19:55 DEBUG ./jpegsampleруссианфиленаме.jpg.dcm Stored OK.
+Птн, 04 Фев 2011 15:21:42 DEBUG 
+Loader started, begin processing: /home/user/work/jpegsample.jpg
+Птн, 04 Фев 2011 15:21:42 DEBUG Coversion /home/user/work/jpegsample.jpg SEEMS OK.
+Птн, 04 Фев 2011 15:21:42 DEBUG Reading file './jpegsample.jpg.dcm'
+Птн, 04 Фев 2011 15:21:42 DEBUG Reading preamble
+Птн, 04 Фев 2011 15:21:42 DEBUG ./jpegsample.jpg.dcm Stored OK.
+Птн, 04 Фев 2011 15:21:42 DEBUG 
+Loader started, begin processing: /home/user/work/jpegsampleруссианфиленаме.jpg
+Птн, 04 Фев 2011 15:21:42 DEBUG Coversion /home/user/work/jpegsampleруссианфиленаме.jpg SEEMS OK.
+Птн, 04 Фев 2011 15:21:42 DEBUG Reading file './jpegsampleруссианфиленаме.jpg.dcm'
+Птн, 04 Фев 2011 15:21:42 DEBUG Reading preamble
+Птн, 04 Фев 2011 15:21:43 DEBUG ./jpegsampleруссианфиленаме.jpg.dcm Stored OK.
+Fri, 04 Feb 2011 16:19:41 DEBUG 
+App started
+Thu, 10 Feb 2011 12:17:44 DEBUG 
+App started
+Thu, 10 Feb 2011 13:06:06 DEBUG 
+App started
+Thu, 10 Feb 2011 13:08:49 DEBUG 
+App started
+Чтв, 10 Фев 2011 13:09:44 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img1.bmp.jpg
+Чтв, 10 Фев 2011 13:09:45 DEBUG Coversion /home/user/work/ex/img1.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading file './img1.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:45 DEBUG ./img1.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img2.bmp.jpg
+Чтв, 10 Фев 2011 13:09:45 DEBUG Coversion /home/user/work/ex/img2.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading file './img2.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:45 DEBUG ./img2.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img3.bmp.jpg
+Чтв, 10 Фев 2011 13:09:45 DEBUG Coversion /home/user/work/ex/img3.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading file './img3.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:45 DEBUG ./img3.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img4.bmp.jpg
+Чтв, 10 Фев 2011 13:09:45 DEBUG Coversion /home/user/work/ex/img4.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading file './img4.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:46 DEBUG ./img4.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img5.bmp.jpg
+Чтв, 10 Фев 2011 13:09:46 DEBUG Coversion /home/user/work/ex/img5.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading file './img5.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:46 DEBUG ./img5.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img6.bmp.jpg
+Чтв, 10 Фев 2011 13:09:46 DEBUG Coversion /home/user/work/ex/img6.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading file './img6.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:46 DEBUG ./img6.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img7.bmp.jpg
+Чтв, 10 Фев 2011 13:09:46 DEBUG Coversion /home/user/work/ex/img7.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading file './img7.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:46 DEBUG ./img7.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img8.bmp.jpg
+Чтв, 10 Фев 2011 13:09:46 DEBUG Coversion /home/user/work/ex/img8.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading file './img8.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:47 DEBUG ./img8.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img9.bmp.jpg
+Чтв, 10 Фев 2011 13:09:47 DEBUG Coversion /home/user/work/ex/img9.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading file './img9.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:47 DEBUG ./img9.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img10.bmp.jpg
+Чтв, 10 Фев 2011 13:09:47 DEBUG Coversion /home/user/work/ex/img10.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading file './img10.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:47 DEBUG ./img10.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img11.bmp.jpg
+Чтв, 10 Фев 2011 13:09:47 DEBUG Coversion /home/user/work/ex/img11.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading file './img11.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:47 DEBUG ./img11.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img12.bmp.jpg
+Чтв, 10 Фев 2011 13:09:47 DEBUG Coversion /home/user/work/ex/img12.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading file './img12.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:47 DEBUG ./img12.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img13.bmp.jpg
+Чтв, 10 Фев 2011 13:09:47 DEBUG Coversion /home/user/work/ex/img13.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading file './img13.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img13.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img14.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img14.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img14.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img14.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img15.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img15.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img15.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img15.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img16.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img16.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img16.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img16.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img17.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img17.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img17.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img17.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img18.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img18.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img18.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:48 DEBUG ./img18.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img19.bmp.jpg
+Чтв, 10 Фев 2011 13:09:48 DEBUG Coversion /home/user/work/ex/img19.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading file './img19.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:49 DEBUG ./img19.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img20.bmp.jpg
+Чтв, 10 Фев 2011 13:09:49 DEBUG Coversion /home/user/work/ex/img20.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading file './img20.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:49 DEBUG ./img20.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img21.bmp.jpg
+Чтв, 10 Фев 2011 13:09:49 DEBUG Coversion /home/user/work/ex/img21.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading file './img21.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:49 DEBUG ./img21.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img22.bmp.jpg
+Чтв, 10 Фев 2011 13:09:49 DEBUG Coversion /home/user/work/ex/img22.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading file './img22.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:49 DEBUG ./img22.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img23.bmp.jpg
+Чтв, 10 Фев 2011 13:09:49 DEBUG Coversion /home/user/work/ex/img23.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading file './img23.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:50 DEBUG ./img23.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img24.bmp.jpg
+Чтв, 10 Фев 2011 13:09:50 DEBUG Coversion /home/user/work/ex/img24.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading file './img24.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:50 DEBUG ./img24.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img25.bmp.jpg
+Чтв, 10 Фев 2011 13:09:50 DEBUG Coversion /home/user/work/ex/img25.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading file './img25.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:50 DEBUG ./img25.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img26.bmp.jpg
+Чтв, 10 Фев 2011 13:09:50 DEBUG Coversion /home/user/work/ex/img26.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading file './img26.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:50 DEBUG ./img26.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img27.bmp.jpg
+Чтв, 10 Фев 2011 13:09:50 DEBUG Coversion /home/user/work/ex/img27.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading file './img27.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:50 DEBUG ./img27.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img28.bmp.jpg
+Чтв, 10 Фев 2011 13:09:50 DEBUG Coversion /home/user/work/ex/img28.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading file './img28.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img28.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img29.bmp.jpg
+Чтв, 10 Фев 2011 13:09:51 DEBUG Coversion /home/user/work/ex/img29.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading file './img29.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img29.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img30.bmp.jpg
+Чтв, 10 Фев 2011 13:09:51 DEBUG Coversion /home/user/work/ex/img30.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading file './img30.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img30.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img31.bmp.jpg
+Чтв, 10 Фев 2011 13:09:51 DEBUG Coversion /home/user/work/ex/img31.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading file './img31.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img31.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img32.bmp.jpg
+Чтв, 10 Фев 2011 13:09:51 DEBUG Coversion /home/user/work/ex/img32.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading file './img32.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img32.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img33.bmp.jpg
+Чтв, 10 Фев 2011 13:09:51 DEBUG Coversion /home/user/work/ex/img33.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading file './img33.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:51 DEBUG ./img33.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:51 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img34.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img34.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img34.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:52 DEBUG ./img34.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img35.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img35.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img35.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:52 DEBUG ./img35.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img36.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img36.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img36.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:52 DEBUG ./img36.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img37.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img37.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img37.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:52 DEBUG ./img37.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img38.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img38.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img38.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:52 DEBUG ./img38.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img39.bmp.jpg
+Чтв, 10 Фев 2011 13:09:52 DEBUG Coversion /home/user/work/ex/img39.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading file './img39.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img39.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img40.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img40.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img40.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img40.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img41.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img41.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img41.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img41.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img42.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img42.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img42.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img42.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img43.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img43.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img43.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img43.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img44.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img44.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img44.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:53 DEBUG ./img44.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img45.bmp.jpg
+Чтв, 10 Фев 2011 13:09:53 DEBUG Coversion /home/user/work/ex/img45.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading file './img45.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img45.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img46.bmp.jpg
+Чтв, 10 Фев 2011 13:09:54 DEBUG Coversion /home/user/work/ex/img46.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading file './img46.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img46.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img47.bmp.jpg
+Чтв, 10 Фев 2011 13:09:54 DEBUG Coversion /home/user/work/ex/img47.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading file './img47.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img47.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img48.bmp.jpg
+Чтв, 10 Фев 2011 13:09:54 DEBUG Coversion /home/user/work/ex/img48.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading file './img48.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img48.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img49.bmp.jpg
+Чтв, 10 Фев 2011 13:09:54 DEBUG Coversion /home/user/work/ex/img49.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading file './img49.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img49.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img50.bmp.jpg
+Чтв, 10 Фев 2011 13:09:54 DEBUG Coversion /home/user/work/ex/img50.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading file './img50.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:54 DEBUG ./img50.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img51.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img51.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img51.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:55 DEBUG ./img51.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img52.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img52.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img52.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:55 DEBUG ./img52.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img53.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img53.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img53.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:55 DEBUG ./img53.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img54.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img54.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img54.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:55 DEBUG ./img54.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img55.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img55.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img55.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:55 DEBUG ./img55.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img56.bmp.jpg
+Чтв, 10 Фев 2011 13:09:55 DEBUG Coversion /home/user/work/ex/img56.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading file './img56.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img56.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img57.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img57.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img57.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img57.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img58.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img58.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img58.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img58.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img59.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img59.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img59.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img59.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img60.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img60.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img60.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img60.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img61.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img61.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img61.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:56 DEBUG ./img61.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img62.bmp.jpg
+Чтв, 10 Фев 2011 13:09:56 DEBUG Coversion /home/user/work/ex/img62.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading file './img62.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img62.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img63.bmp.jpg
+Чтв, 10 Фев 2011 13:09:57 DEBUG Coversion /home/user/work/ex/img63.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading file './img63.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img63.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img64.bmp.jpg
+Чтв, 10 Фев 2011 13:09:57 DEBUG Coversion /home/user/work/ex/img64.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading file './img64.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img64.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img65.bmp.jpg
+Чтв, 10 Фев 2011 13:09:57 DEBUG Coversion /home/user/work/ex/img65.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading file './img65.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img65.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img66.bmp.jpg
+Чтв, 10 Фев 2011 13:09:57 DEBUG Coversion /home/user/work/ex/img66.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading file './img66.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img66.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img67.bmp.jpg
+Чтв, 10 Фев 2011 13:09:57 DEBUG Coversion /home/user/work/ex/img67.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading file './img67.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:57 DEBUG ./img67.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img68.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img68.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img68.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:58 DEBUG ./img68.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img69.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img69.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img69.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:58 DEBUG ./img69.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img70.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img70.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img70.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:58 DEBUG ./img70.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img71.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img71.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img71.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:58 DEBUG ./img71.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img72.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img72.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img72.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:58 DEBUG ./img72.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img73.bmp.jpg
+Чтв, 10 Фев 2011 13:09:58 DEBUG Coversion /home/user/work/ex/img73.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading file './img73.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:59 DEBUG ./img73.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img74.bmp.jpg
+Чтв, 10 Фев 2011 13:09:59 DEBUG Coversion /home/user/work/ex/img74.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading file './img74.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:59 DEBUG ./img74.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img75.bmp.jpg
+Чтв, 10 Фев 2011 13:09:59 DEBUG Coversion /home/user/work/ex/img75.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading file './img75.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:59 DEBUG ./img75.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img76.bmp.jpg
+Чтв, 10 Фев 2011 13:09:59 DEBUG Coversion /home/user/work/ex/img76.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading file './img76.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:09:59 DEBUG ./img76.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img77.bmp.jpg
+Чтв, 10 Фев 2011 13:09:59 DEBUG Coversion /home/user/work/ex/img77.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading file './img77.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:09:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img77.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img78.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img78.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img78.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img78.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img79.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img79.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img79.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img79.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img80.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img80.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img80.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img80.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img81.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img81.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img81.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img81.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img82.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img82.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img82.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:00 DEBUG ./img82.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img83.bmp.jpg
+Чтв, 10 Фев 2011 13:10:00 DEBUG Coversion /home/user/work/ex/img83.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading file './img83.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img83.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img84.bmp.jpg
+Чтв, 10 Фев 2011 13:10:01 DEBUG Coversion /home/user/work/ex/img84.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading file './img84.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img84.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img85.bmp.jpg
+Чтв, 10 Фев 2011 13:10:01 DEBUG Coversion /home/user/work/ex/img85.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading file './img85.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img85.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img86.bmp.jpg
+Чтв, 10 Фев 2011 13:10:01 DEBUG Coversion /home/user/work/ex/img86.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading file './img86.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img86.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img87.bmp.jpg
+Чтв, 10 Фев 2011 13:10:01 DEBUG Coversion /home/user/work/ex/img87.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading file './img87.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img87.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img88.bmp.jpg
+Чтв, 10 Фев 2011 13:10:01 DEBUG Coversion /home/user/work/ex/img88.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading file './img88.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:01 DEBUG ./img88.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img89.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img89.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img89.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:02 DEBUG ./img89.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img90.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img90.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img90.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:02 DEBUG ./img90.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img91.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img91.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img91.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:02 DEBUG ./img91.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img92.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img92.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img92.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:02 DEBUG ./img92.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img93.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img93.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img93.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:02 DEBUG ./img93.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img94.bmp.jpg
+Чтв, 10 Фев 2011 13:10:02 DEBUG Coversion /home/user/work/ex/img94.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading file './img94.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img94.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img95.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img95.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img95.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img95.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img96.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img96.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img96.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img96.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img97.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img97.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img97.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img97.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img98.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img98.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img98.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img98.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img99.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img99.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img99.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:03 DEBUG ./img99.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img100.bmp.jpg
+Чтв, 10 Фев 2011 13:10:03 DEBUG Coversion /home/user/work/ex/img100.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading file './img100.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img100.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img101.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img101.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img101.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img101.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img102.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img102.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img102.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img102.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img103.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img103.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img103.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img103.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img104.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img104.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img104.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img104.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img105.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img105.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img105.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:04 DEBUG ./img105.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img106.bmp.jpg
+Чтв, 10 Фев 2011 13:10:04 DEBUG Coversion /home/user/work/ex/img106.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading file './img106.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:05 DEBUG ./img106.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img107.bmp.jpg
+Чтв, 10 Фев 2011 13:10:05 DEBUG Coversion /home/user/work/ex/img107.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading file './img107.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:05 DEBUG ./img107.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img108.bmp.jpg
+Чтв, 10 Фев 2011 13:10:05 DEBUG Coversion /home/user/work/ex/img108.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading file './img108.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:05 DEBUG ./img108.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img109.bmp.jpg
+Чтв, 10 Фев 2011 13:10:05 DEBUG Coversion /home/user/work/ex/img109.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading file './img109.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:05 DEBUG ./img109.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img110.bmp.jpg
+Чтв, 10 Фев 2011 13:10:05 DEBUG Coversion /home/user/work/ex/img110.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading file './img110.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:05 DEBUG ./img110.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img111.bmp.jpg
+Чтв, 10 Фев 2011 13:10:05 DEBUG Coversion /home/user/work/ex/img111.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading file './img111.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:06 DEBUG ./img111.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img112.bmp.jpg
+Чтв, 10 Фев 2011 13:10:06 DEBUG Coversion /home/user/work/ex/img112.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading file './img112.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:06 DEBUG ./img112.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img113.bmp.jpg
+Чтв, 10 Фев 2011 13:10:06 DEBUG Coversion /home/user/work/ex/img113.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading file './img113.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:06 DEBUG ./img113.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img114.bmp.jpg
+Чтв, 10 Фев 2011 13:10:06 DEBUG Coversion /home/user/work/ex/img114.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading file './img114.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:06 DEBUG ./img114.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img115.bmp.jpg
+Чтв, 10 Фев 2011 13:10:06 DEBUG Coversion /home/user/work/ex/img115.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading file './img115.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img115.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img116.bmp.jpg
+Чтв, 10 Фев 2011 13:10:07 DEBUG Coversion /home/user/work/ex/img116.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading file './img116.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img116.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img117.bmp.jpg
+Чтв, 10 Фев 2011 13:10:07 DEBUG Coversion /home/user/work/ex/img117.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading file './img117.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img117.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img118.bmp.jpg
+Чтв, 10 Фев 2011 13:10:07 DEBUG Coversion /home/user/work/ex/img118.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading file './img118.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img118.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img119.bmp.jpg
+Чтв, 10 Фев 2011 13:10:07 DEBUG Coversion /home/user/work/ex/img119.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading file './img119.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img119.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img120.bmp.jpg
+Чтв, 10 Фев 2011 13:10:07 DEBUG Coversion /home/user/work/ex/img120.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading file './img120.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:07 DEBUG ./img120.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:07 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img121.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img121.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img121.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img121.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img122.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img122.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img122.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img122.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img123.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img123.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img123.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img123.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img124.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img124.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img124.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img124.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img125.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img125.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img125.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img125.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img126.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img126.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img126.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:08 DEBUG ./img126.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img127.bmp.jpg
+Чтв, 10 Фев 2011 13:10:08 DEBUG Coversion /home/user/work/ex/img127.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading file './img127.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:09 DEBUG ./img127.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img128.bmp.jpg
+Чтв, 10 Фев 2011 13:10:09 DEBUG Coversion /home/user/work/ex/img128.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading file './img128.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:09 DEBUG ./img128.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img129.bmp.jpg
+Чтв, 10 Фев 2011 13:10:09 DEBUG Coversion /home/user/work/ex/img129.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading file './img129.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:09 DEBUG ./img129.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img130.bmp.jpg
+Чтв, 10 Фев 2011 13:10:09 DEBUG Coversion /home/user/work/ex/img130.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading file './img130.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:09 DEBUG ./img130.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img131.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img131.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img131.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img131.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img132.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img132.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img132.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img132.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img133.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img133.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img133.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img133.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img134.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img134.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img134.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img134.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img135.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img135.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img135.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img135.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img136.bmp.jpg
+Чтв, 10 Фев 2011 13:10:10 DEBUG Coversion /home/user/work/ex/img136.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading file './img136.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:10 DEBUG ./img136.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img137.bmp.jpg
+Чтв, 10 Фев 2011 13:10:11 DEBUG Coversion /home/user/work/ex/img137.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading file './img137.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:11 DEBUG ./img137.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img138.bmp.jpg
+Чтв, 10 Фев 2011 13:10:11 DEBUG Coversion /home/user/work/ex/img138.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading file './img138.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:11 DEBUG ./img138.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img139.bmp.jpg
+Чтв, 10 Фев 2011 13:10:11 DEBUG Coversion /home/user/work/ex/img139.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading file './img139.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:11 DEBUG ./img139.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img140.bmp.jpg
+Чтв, 10 Фев 2011 13:10:11 DEBUG Coversion /home/user/work/ex/img140.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading file './img140.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:11 DEBUG ./img140.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img141.bmp.jpg
+Чтв, 10 Фев 2011 13:10:11 DEBUG Coversion /home/user/work/ex/img141.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading file './img141.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:12 DEBUG ./img141.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img142.bmp.jpg
+Чтв, 10 Фев 2011 13:10:12 DEBUG Coversion /home/user/work/ex/img142.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading file './img142.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:12 DEBUG ./img142.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img143.bmp.jpg
+Чтв, 10 Фев 2011 13:10:12 DEBUG Coversion /home/user/work/ex/img143.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading file './img143.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:12 DEBUG ./img143.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img144.bmp.jpg
+Чтв, 10 Фев 2011 13:10:12 DEBUG Coversion /home/user/work/ex/img144.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading file './img144.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:12 DEBUG ./img144.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img145.bmp.jpg
+Чтв, 10 Фев 2011 13:10:12 DEBUG Coversion /home/user/work/ex/img145.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading file './img145.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:12 DEBUG ./img145.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img146.bmp.jpg
+Чтв, 10 Фев 2011 13:10:12 DEBUG Coversion /home/user/work/ex/img146.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading file './img146.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:13 DEBUG ./img146.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img147.bmp.jpg
+Чтв, 10 Фев 2011 13:10:13 DEBUG Coversion /home/user/work/ex/img147.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading file './img147.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:13 DEBUG ./img147.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img148.bmp.jpg
+Чтв, 10 Фев 2011 13:10:13 DEBUG Coversion /home/user/work/ex/img148.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading file './img148.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:13 DEBUG ./img148.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img149.bmp.jpg
+Чтв, 10 Фев 2011 13:10:13 DEBUG Coversion /home/user/work/ex/img149.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading file './img149.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:13 DEBUG ./img149.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img150.bmp.jpg
+Чтв, 10 Фев 2011 13:10:13 DEBUG Coversion /home/user/work/ex/img150.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading file './img150.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:13 DEBUG ./img150.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img151.bmp.jpg
+Чтв, 10 Фев 2011 13:10:13 DEBUG Coversion /home/user/work/ex/img151.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading file './img151.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:14 DEBUG ./img151.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img152.bmp.jpg
+Чтв, 10 Фев 2011 13:10:14 DEBUG Coversion /home/user/work/ex/img152.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading file './img152.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:14 DEBUG ./img152.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img153.bmp.jpg
+Чтв, 10 Фев 2011 13:10:14 DEBUG Coversion /home/user/work/ex/img153.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading file './img153.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:14 DEBUG ./img153.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img154.bmp.jpg
+Чтв, 10 Фев 2011 13:10:14 DEBUG Coversion /home/user/work/ex/img154.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading file './img154.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:14 DEBUG ./img154.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img155.bmp.jpg
+Чтв, 10 Фев 2011 13:10:14 DEBUG Coversion /home/user/work/ex/img155.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading file './img155.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:14 DEBUG ./img155.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img156.bmp.jpg
+Чтв, 10 Фев 2011 13:10:14 DEBUG Coversion /home/user/work/ex/img156.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading file './img156.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img156.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img157.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img157.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img157.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img157.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img158.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img158.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img158.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img158.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img159.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img159.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img159.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img159.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img160.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img160.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img160.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img160.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img161.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img161.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img161.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:15 DEBUG ./img161.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img162.bmp.jpg
+Чтв, 10 Фев 2011 13:10:15 DEBUG Coversion /home/user/work/ex/img162.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading file './img162.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:16 DEBUG ./img162.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img163.bmp.jpg
+Чтв, 10 Фев 2011 13:10:16 DEBUG Coversion /home/user/work/ex/img163.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading file './img163.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:16 DEBUG ./img163.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img164.bmp.jpg
+Чтв, 10 Фев 2011 13:10:16 DEBUG Coversion /home/user/work/ex/img164.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading file './img164.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:16 DEBUG ./img164.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img165.bmp.jpg
+Чтв, 10 Фев 2011 13:10:16 DEBUG Coversion /home/user/work/ex/img165.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading file './img165.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:16 DEBUG ./img165.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img166.bmp.jpg
+Чтв, 10 Фев 2011 13:10:16 DEBUG Coversion /home/user/work/ex/img166.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading file './img166.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:16 DEBUG ./img166.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img167.bmp.jpg
+Чтв, 10 Фев 2011 13:10:16 DEBUG Coversion /home/user/work/ex/img167.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading file './img167.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img167.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img168.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img168.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img168.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img168.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img169.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img169.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img169.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img169.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img170.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img170.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img170.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img170.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img171.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img171.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img171.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img171.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img172.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img172.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img172.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:17 DEBUG ./img172.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img173.bmp.jpg
+Чтв, 10 Фев 2011 13:10:17 DEBUG Coversion /home/user/work/ex/img173.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading file './img173.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img173.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img174.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img174.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img174.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img174.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img175.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img175.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img175.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img175.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img176.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img176.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img176.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img176.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img177.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img177.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img177.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img177.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img178.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img178.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img178.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img178.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img179.bmp.jpg
+Чтв, 10 Фев 2011 13:10:18 DEBUG Coversion /home/user/work/ex/img179.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading file './img179.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:18 DEBUG ./img179.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img180.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img180.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img180.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:19 DEBUG ./img180.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img181.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img181.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img181.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:19 DEBUG ./img181.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img182.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img182.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img182.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:19 DEBUG ./img182.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img183.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img183.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img183.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:19 DEBUG ./img183.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img184.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img184.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img184.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:19 DEBUG ./img184.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img185.bmp.jpg
+Чтв, 10 Фев 2011 13:10:19 DEBUG Coversion /home/user/work/ex/img185.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading file './img185.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img185.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img186.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img186.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img186.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img186.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img187.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img187.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img187.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img187.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img188.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img188.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img188.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img188.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img189.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img189.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img189.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img189.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img190.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img190.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img190.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:20 DEBUG ./img190.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img191.bmp.jpg
+Чтв, 10 Фев 2011 13:10:20 DEBUG Coversion /home/user/work/ex/img191.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading file './img191.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:21 DEBUG ./img191.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img192.bmp.jpg
+Чтв, 10 Фев 2011 13:10:21 DEBUG Coversion /home/user/work/ex/img192.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading file './img192.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:21 DEBUG ./img192.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img193.bmp.jpg
+Чтв, 10 Фев 2011 13:10:21 DEBUG Coversion /home/user/work/ex/img193.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading file './img193.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:21 DEBUG ./img193.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img194.bmp.jpg
+Чтв, 10 Фев 2011 13:10:21 DEBUG Coversion /home/user/work/ex/img194.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading file './img194.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:21 DEBUG ./img194.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img195.bmp.jpg
+Чтв, 10 Фев 2011 13:10:21 DEBUG Coversion /home/user/work/ex/img195.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading file './img195.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:21 DEBUG ./img195.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img196.bmp.jpg
+Чтв, 10 Фев 2011 13:10:21 DEBUG Coversion /home/user/work/ex/img196.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading file './img196.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:22 DEBUG ./img196.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img197.bmp.jpg
+Чтв, 10 Фев 2011 13:10:22 DEBUG Coversion /home/user/work/ex/img197.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading file './img197.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:22 DEBUG ./img197.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img198.bmp.jpg
+Чтв, 10 Фев 2011 13:10:22 DEBUG Coversion /home/user/work/ex/img198.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading file './img198.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:22 DEBUG ./img198.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img199.bmp.jpg
+Чтв, 10 Фев 2011 13:10:22 DEBUG Coversion /home/user/work/ex/img199.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading file './img199.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:22 DEBUG ./img199.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img200.bmp.jpg
+Чтв, 10 Фев 2011 13:10:22 DEBUG Coversion /home/user/work/ex/img200.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading file './img200.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:22 DEBUG ./img200.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img201.bmp.jpg
+Чтв, 10 Фев 2011 13:10:22 DEBUG Coversion /home/user/work/ex/img201.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading file './img201.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img201.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img202.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img202.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img202.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img202.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img203.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img203.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img203.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img203.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img204.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img204.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img204.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img204.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img205.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img205.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img205.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img205.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img206.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img206.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img206.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img206.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img207.bmp.jpg
+Чтв, 10 Фев 2011 13:10:23 DEBUG Coversion /home/user/work/ex/img207.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading file './img207.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:23 DEBUG ./img207.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img208.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img208.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img208.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img208.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img209.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img209.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img209.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img209.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img210.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img210.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img210.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img210.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img211.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img211.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img211.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img211.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img212.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img212.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img212.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img212.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img213.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img213.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img213.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:24 DEBUG ./img213.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img214.bmp.jpg
+Чтв, 10 Фев 2011 13:10:24 DEBUG Coversion /home/user/work/ex/img214.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading file './img214.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img214.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img215.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img215.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img215.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img215.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img216.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img216.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img216.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img216.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img217.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img217.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img217.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img217.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img218.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img218.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img218.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img218.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img219.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img219.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img219.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:25 DEBUG ./img219.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img220.bmp.jpg
+Чтв, 10 Фев 2011 13:10:25 DEBUG Coversion /home/user/work/ex/img220.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading file './img220.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:26 DEBUG ./img220.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img221.bmp.jpg
+Чтв, 10 Фев 2011 13:10:26 DEBUG Coversion /home/user/work/ex/img221.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading file './img221.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:26 DEBUG ./img221.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img222.bmp.jpg
+Чтв, 10 Фев 2011 13:10:26 DEBUG Coversion /home/user/work/ex/img222.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading file './img222.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:26 DEBUG ./img222.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img223.bmp.jpg
+Чтв, 10 Фев 2011 13:10:26 DEBUG Coversion /home/user/work/ex/img223.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading file './img223.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:26 DEBUG ./img223.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img224.bmp.jpg
+Чтв, 10 Фев 2011 13:10:26 DEBUG Coversion /home/user/work/ex/img224.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading file './img224.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:26 DEBUG ./img224.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img225.bmp.jpg
+Чтв, 10 Фев 2011 13:10:26 DEBUG Coversion /home/user/work/ex/img225.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading file './img225.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img225.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img226.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img226.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img226.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img226.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img227.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img227.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img227.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img227.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img228.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img228.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img228.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img228.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img229.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img229.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img229.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img229.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img230.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img230.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img230.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:27 DEBUG ./img230.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img231.bmp.jpg
+Чтв, 10 Фев 2011 13:10:27 DEBUG Coversion /home/user/work/ex/img231.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading file './img231.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:27 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:28 DEBUG ./img231.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 13:10:28 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img232.bmp.jpg
+Чтв, 10 Фев 2011 13:10:28 DEBUG Coversion /home/user/work/ex/img232.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:10:28 DEBUG Reading file './img232.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:10:28 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:10:28 DEBUG ./img232.bmp.jpg.dcm Stored OK.
+Thu, 10 Feb 2011 13:19:48 DEBUG 
+App started
+Чтв, 10 Фев 2011 13:20:00 DEBUG 
+Loader started, begin processing: /home/user/work/ex/img1.bmp.jpg
+Чтв, 10 Фев 2011 13:20:00 DEBUG Coversion /home/user/work/ex/img1.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:20:00 DEBUG Reading file './img1.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 13:20:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:20:01 DEBUG module Run,  RETURN CODE: 1
+Чтв, 10 Фев 2011 13:20:01 DEBUG module Run,  STDERR:
+W: DIMSE Warning: (STORESCU,DCM4CHEE): sendMessage: unable to convert dataset from 'JPEG Baseline' transfer syntax to 'Little Endian Explicit'
+E: Store Failed, file: ./img1.bmp.jpg.dcm:
+E: 0006:020e DIMSE Failed to send message
+E: Store SCU Failed: 0006:020e DIMSE Failed to send message
+
+Чтв, 10 Фев 2011 13:20:01 DEBUG Storage ./img1.bmp.jpg.dcm failed. The reason above.
+Thu, 10 Feb 2011 13:35:11 DEBUG 
+App started
+Чтв, 10 Фев 2011 13:35:21 DEBUG 
+Loader started, begin processing: /home/user/work/tttt.jpg
+Чтв, 10 Фев 2011 13:35:21 DEBUG Coversion /home/user/work/tttt.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:35:21 DEBUG Reading file './tttt.jpg.dcm'
+Чтв, 10 Фев 2011 13:35:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:35:22 DEBUG ./tttt.jpg.dcm Stored OK.
+Thu, 10 Feb 2011 13:46:24 DEBUG 
+App started
+Чтв, 10 Фев 2011 13:46:34 DEBUG 
+Loader started, begin processing: /home/user/work/7/img1.JPG.jpg
+Чтв, 10 Фев 2011 13:46:34 DEBUG Coversion /home/user/work/7/img1.JPG.jpg SEEMS OK.
+Чтв, 10 Фев 2011 13:46:34 DEBUG Reading file './img1.JPG.jpg.dcm'
+Чтв, 10 Фев 2011 13:46:34 DEBUG Reading preamble
+Чтв, 10 Фев 2011 13:46:35 DEBUG ./img1.JPG.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 14:57:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img1.bmp.jpg
+Чтв, 10 Фев 2011 14:57:19 DEBUG Coversion /home/user/work/7/img1.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 14:57:19 DEBUG Reading file './img1.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 14:57:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 14:57:19 DEBUG ./img1.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img1.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img1.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img1.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:45 DEBUG ./img1.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img2.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img2.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img2.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:45 DEBUG ./img2.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img3.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img3.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img3.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:45 DEBUG ./img3.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img4.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img4.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img4.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:45 DEBUG ./img4.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img5.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img5.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img5.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:45 DEBUG ./img5.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG 
+Loader started, begin processing: /home/user/work/7/img6.bmp.jpg
+Чтв, 10 Фев 2011 15:02:45 DEBUG Coversion /home/user/work/7/img6.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading file './img6.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:45 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img6.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img7.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img7.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img7.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img7.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img8.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img8.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img8.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img8.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img9.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img9.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img9.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img9.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img10.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img10.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img10.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img10.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img11.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img11.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img11.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:46 DEBUG ./img11.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG 
+Loader started, begin processing: /home/user/work/7/img12.bmp.jpg
+Чтв, 10 Фев 2011 15:02:46 DEBUG Coversion /home/user/work/7/img12.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading file './img12.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:46 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img12.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img13.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img13.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img13.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img13.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img14.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img14.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img14.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img14.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img15.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img15.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img15.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img15.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img16.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img16.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img16.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img16.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img17.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img17.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img17.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:47 DEBUG ./img17.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG 
+Loader started, begin processing: /home/user/work/7/img18.bmp.jpg
+Чтв, 10 Фев 2011 15:02:47 DEBUG Coversion /home/user/work/7/img18.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading file './img18.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:47 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:48 DEBUG ./img18.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG 
+Loader started, begin processing: /home/user/work/7/img19.bmp.jpg
+Чтв, 10 Фев 2011 15:02:48 DEBUG Coversion /home/user/work/7/img19.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading file './img19.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:48 DEBUG ./img19.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG 
+Loader started, begin processing: /home/user/work/7/img20.bmp.jpg
+Чтв, 10 Фев 2011 15:02:48 DEBUG Coversion /home/user/work/7/img20.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading file './img20.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:48 DEBUG ./img20.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG 
+Loader started, begin processing: /home/user/work/7/img21.bmp.jpg
+Чтв, 10 Фев 2011 15:02:48 DEBUG Coversion /home/user/work/7/img21.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading file './img21.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:48 DEBUG ./img21.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG 
+Loader started, begin processing: /home/user/work/7/img22.bmp.jpg
+Чтв, 10 Фев 2011 15:02:48 DEBUG Coversion /home/user/work/7/img22.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading file './img22.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:48 DEBUG ./img22.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG 
+Loader started, begin processing: /home/user/work/7/img23.bmp.jpg
+Чтв, 10 Фев 2011 15:02:48 DEBUG Coversion /home/user/work/7/img23.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading file './img23.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:48 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img23.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG 
+Loader started, begin processing: /home/user/work/7/img24.bmp.jpg
+Чтв, 10 Фев 2011 15:02:49 DEBUG Coversion /home/user/work/7/img24.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading file './img24.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img24.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG 
+Loader started, begin processing: /home/user/work/7/img25.bmp.jpg
+Чтв, 10 Фев 2011 15:02:49 DEBUG Coversion /home/user/work/7/img25.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading file './img25.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img25.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG 
+Loader started, begin processing: /home/user/work/7/img26.bmp.jpg
+Чтв, 10 Фев 2011 15:02:49 DEBUG Coversion /home/user/work/7/img26.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading file './img26.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img26.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG 
+Loader started, begin processing: /home/user/work/7/img27.bmp.jpg
+Чтв, 10 Фев 2011 15:02:49 DEBUG Coversion /home/user/work/7/img27.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading file './img27.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img27.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG 
+Loader started, begin processing: /home/user/work/7/img28.bmp.jpg
+Чтв, 10 Фев 2011 15:02:49 DEBUG Coversion /home/user/work/7/img28.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading file './img28.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:49 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:49 DEBUG ./img28.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG 
+Loader started, begin processing: /home/user/work/7/img29.bmp.jpg
+Чтв, 10 Фев 2011 15:02:50 DEBUG Coversion /home/user/work/7/img29.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading file './img29.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:50 DEBUG ./img29.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG 
+Loader started, begin processing: /home/user/work/7/img30.bmp.jpg
+Чтв, 10 Фев 2011 15:02:50 DEBUG Coversion /home/user/work/7/img30.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading file './img30.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:50 DEBUG ./img30.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG 
+Loader started, begin processing: /home/user/work/7/img31.bmp.jpg
+Чтв, 10 Фев 2011 15:02:50 DEBUG Coversion /home/user/work/7/img31.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading file './img31.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:50 DEBUG ./img31.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG 
+Loader started, begin processing: /home/user/work/7/img32.bmp.jpg
+Чтв, 10 Фев 2011 15:02:50 DEBUG Coversion /home/user/work/7/img32.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading file './img32.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:50 DEBUG ./img32.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG 
+Loader started, begin processing: /home/user/work/7/img33.bmp.jpg
+Чтв, 10 Фев 2011 15:02:50 DEBUG Coversion /home/user/work/7/img33.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading file './img33.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:50 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:51 DEBUG ./img33.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG 
+Loader started, begin processing: /home/user/work/7/img34.bmp.jpg
+Чтв, 10 Фев 2011 15:02:51 DEBUG Coversion /home/user/work/7/img34.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading file './img34.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:51 DEBUG ./img34.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG 
+Loader started, begin processing: /home/user/work/7/img35.bmp.jpg
+Чтв, 10 Фев 2011 15:02:51 DEBUG Coversion /home/user/work/7/img35.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading file './img35.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:51 DEBUG ./img35.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG 
+Loader started, begin processing: /home/user/work/7/img36.bmp.jpg
+Чтв, 10 Фев 2011 15:02:51 DEBUG Coversion /home/user/work/7/img36.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading file './img36.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:51 DEBUG ./img36.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG 
+Loader started, begin processing: /home/user/work/7/img37.bmp.jpg
+Чтв, 10 Фев 2011 15:02:51 DEBUG Coversion /home/user/work/7/img37.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading file './img37.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:51 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:51 DEBUG ./img37.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG 
+Loader started, begin processing: /home/user/work/7/img38.bmp.jpg
+Чтв, 10 Фев 2011 15:02:52 DEBUG Coversion /home/user/work/7/img38.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading file './img38.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:52 DEBUG ./img38.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG 
+Loader started, begin processing: /home/user/work/7/img39.bmp.jpg
+Чтв, 10 Фев 2011 15:02:52 DEBUG Coversion /home/user/work/7/img39.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading file './img39.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:52 DEBUG ./img39.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG 
+Loader started, begin processing: /home/user/work/7/img40.bmp.jpg
+Чтв, 10 Фев 2011 15:02:52 DEBUG Coversion /home/user/work/7/img40.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading file './img40.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:52 DEBUG ./img40.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG 
+Loader started, begin processing: /home/user/work/7/img41.bmp.jpg
+Чтв, 10 Фев 2011 15:02:52 DEBUG Coversion /home/user/work/7/img41.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading file './img41.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:52 DEBUG ./img41.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG 
+Loader started, begin processing: /home/user/work/7/img42.bmp.jpg
+Чтв, 10 Фев 2011 15:02:52 DEBUG Coversion /home/user/work/7/img42.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading file './img42.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:52 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img42.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img43.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img43.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img43.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img43.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img44.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img44.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img44.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img44.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img45.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img45.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img45.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img45.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img46.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img46.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img46.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img46.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img47.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img47.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img47.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:53 DEBUG ./img47.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG 
+Loader started, begin processing: /home/user/work/7/img48.bmp.jpg
+Чтв, 10 Фев 2011 15:02:53 DEBUG Coversion /home/user/work/7/img48.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading file './img48.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:53 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img48.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img49.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img49.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img49.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img49.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img50.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img50.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img50.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img50.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img51.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img51.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img51.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img51.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img52.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img52.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img52.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img52.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img53.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img53.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img53.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:54 DEBUG ./img53.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG 
+Loader started, begin processing: /home/user/work/7/img54.bmp.jpg
+Чтв, 10 Фев 2011 15:02:54 DEBUG Coversion /home/user/work/7/img54.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading file './img54.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:54 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:55 DEBUG ./img54.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG 
+Loader started, begin processing: /home/user/work/7/img55.bmp.jpg
+Чтв, 10 Фев 2011 15:02:55 DEBUG Coversion /home/user/work/7/img55.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading file './img55.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:55 DEBUG ./img55.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG 
+Loader started, begin processing: /home/user/work/7/img56.bmp.jpg
+Чтв, 10 Фев 2011 15:02:55 DEBUG Coversion /home/user/work/7/img56.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading file './img56.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:55 DEBUG ./img56.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG 
+Loader started, begin processing: /home/user/work/7/img57.bmp.jpg
+Чтв, 10 Фев 2011 15:02:55 DEBUG Coversion /home/user/work/7/img57.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading file './img57.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:55 DEBUG ./img57.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG 
+Loader started, begin processing: /home/user/work/7/img58.bmp.jpg
+Чтв, 10 Фев 2011 15:02:55 DEBUG Coversion /home/user/work/7/img58.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading file './img58.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:55 DEBUG ./img58.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG 
+Loader started, begin processing: /home/user/work/7/img59.bmp.jpg
+Чтв, 10 Фев 2011 15:02:55 DEBUG Coversion /home/user/work/7/img59.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading file './img59.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:55 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img59.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img60.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img60.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img60.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img60.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img61.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img61.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img61.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img61.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img62.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img62.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img62.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img62.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img63.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img63.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img63.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img63.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img64.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img64.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img64.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img64.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG 
+Loader started, begin processing: /home/user/work/7/img65.bmp.jpg
+Чтв, 10 Фев 2011 15:02:56 DEBUG Coversion /home/user/work/7/img65.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading file './img65.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:56 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:56 DEBUG ./img65.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img66.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img66.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img66.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:57 DEBUG ./img66.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img67.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img67.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img67.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:57 DEBUG ./img67.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img68.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img68.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img68.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:57 DEBUG ./img68.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img69.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img69.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img69.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:57 DEBUG ./img69.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img70.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img70.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img70.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:57 DEBUG ./img70.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG 
+Loader started, begin processing: /home/user/work/7/img71.bmp.jpg
+Чтв, 10 Фев 2011 15:02:57 DEBUG Coversion /home/user/work/7/img71.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading file './img71.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:57 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img71.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img72.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img72.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img72.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img72.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img73.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img73.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img73.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img73.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img74.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img74.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img74.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img74.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img75.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img75.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img75.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img75.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img76.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img76.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img76.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:58 DEBUG ./img76.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG 
+Loader started, begin processing: /home/user/work/7/img77.bmp.jpg
+Чтв, 10 Фев 2011 15:02:58 DEBUG Coversion /home/user/work/7/img77.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading file './img77.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:58 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img77.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img78.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img78.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img78.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img78.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img79.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img79.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img79.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img79.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img80.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img80.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img80.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img80.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img81.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img81.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img81.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img81.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img82.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img82.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img82.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img82.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG 
+Loader started, begin processing: /home/user/work/7/img83.bmp.jpg
+Чтв, 10 Фев 2011 15:02:59 DEBUG Coversion /home/user/work/7/img83.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading file './img83.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:02:59 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:02:59 DEBUG ./img83.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img84.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img84.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img84.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:00 DEBUG ./img84.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img85.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img85.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img85.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:00 DEBUG ./img85.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img86.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img86.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img86.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:00 DEBUG ./img86.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img87.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img87.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img87.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:00 DEBUG ./img87.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img88.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img88.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img88.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:00 DEBUG ./img88.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG 
+Loader started, begin processing: /home/user/work/7/img89.bmp.jpg
+Чтв, 10 Фев 2011 15:03:00 DEBUG Coversion /home/user/work/7/img89.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading file './img89.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:00 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img89.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img90.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img90.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img90.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img90.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img91.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img91.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img91.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img91.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img92.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img92.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img92.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img92.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img93.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img93.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img93.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img93.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img94.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img94.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img94.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img94.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG 
+Loader started, begin processing: /home/user/work/7/img95.bmp.jpg
+Чтв, 10 Фев 2011 15:03:01 DEBUG Coversion /home/user/work/7/img95.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading file './img95.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:01 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:01 DEBUG ./img95.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img96.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img96.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img96.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:02 DEBUG ./img96.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img97.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img97.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img97.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:02 DEBUG ./img97.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img98.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img98.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img98.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:02 DEBUG ./img98.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img99.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img99.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img99.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:02 DEBUG ./img99.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img100.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img100.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img100.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:02 DEBUG ./img100.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG 
+Loader started, begin processing: /home/user/work/7/img101.bmp.jpg
+Чтв, 10 Фев 2011 15:03:02 DEBUG Coversion /home/user/work/7/img101.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading file './img101.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:02 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img101.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img102.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img102.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img102.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img102.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img103.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img103.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img103.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img103.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img104.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img104.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img104.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img104.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img105.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img105.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img105.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img105.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img106.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img106.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img106.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img106.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG 
+Loader started, begin processing: /home/user/work/7/img107.bmp.jpg
+Чтв, 10 Фев 2011 15:03:03 DEBUG Coversion /home/user/work/7/img107.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading file './img107.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:03 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:03 DEBUG ./img107.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img108.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img108.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img108.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:04 DEBUG ./img108.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img109.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img109.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img109.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:04 DEBUG ./img109.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img110.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img110.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img110.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:04 DEBUG ./img110.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img111.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img111.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img111.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:04 DEBUG ./img111.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img112.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img112.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img112.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:04 DEBUG ./img112.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG 
+Loader started, begin processing: /home/user/work/7/img113.bmp.jpg
+Чтв, 10 Фев 2011 15:03:04 DEBUG Coversion /home/user/work/7/img113.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading file './img113.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:04 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img113.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img114.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img114.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img114.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img114.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img115.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img115.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img115.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img115.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img116.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img116.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img116.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img116.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img117.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img117.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img117.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img117.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img118.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img118.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img118.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:05 DEBUG ./img118.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG 
+Loader started, begin processing: /home/user/work/7/img119.bmp.jpg
+Чтв, 10 Фев 2011 15:03:05 DEBUG Coversion /home/user/work/7/img119.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading file './img119.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:05 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img119.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img120.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img120.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img120.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img120.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img121.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img121.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img121.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img121.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img122.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img122.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img122.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img122.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img123.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img123.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img123.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img123.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img124.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img124.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img124.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:06 DEBUG ./img124.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG 
+Loader started, begin processing: /home/user/work/7/img125.bmp.jpg
+Чтв, 10 Фев 2011 15:03:06 DEBUG Coversion /home/user/work/7/img125.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading file './img125.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:06 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:07 DEBUG ./img125.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG 
+Loader started, begin processing: /home/user/work/7/img126.bmp.jpg
+Чтв, 10 Фев 2011 15:03:07 DEBUG Coversion /home/user/work/7/img126.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading file './img126.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:07 DEBUG ./img126.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG 
+Loader started, begin processing: /home/user/work/7/img127.bmp.jpg
+Чтв, 10 Фев 2011 15:03:07 DEBUG Coversion /home/user/work/7/img127.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading file './img127.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:07 DEBUG ./img127.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG 
+Loader started, begin processing: /home/user/work/7/img128.bmp.jpg
+Чтв, 10 Фев 2011 15:03:07 DEBUG Coversion /home/user/work/7/img128.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading file './img128.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:07 DEBUG ./img128.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG 
+Loader started, begin processing: /home/user/work/7/img129.bmp.jpg
+Чтв, 10 Фев 2011 15:03:07 DEBUG Coversion /home/user/work/7/img129.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading file './img129.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:07 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:07 DEBUG ./img129.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG 
+Loader started, begin processing: /home/user/work/7/img130.bmp.jpg
+Чтв, 10 Фев 2011 15:03:08 DEBUG Coversion /home/user/work/7/img130.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading file './img130.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:08 DEBUG ./img130.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG 
+Loader started, begin processing: /home/user/work/7/img131.bmp.jpg
+Чтв, 10 Фев 2011 15:03:08 DEBUG Coversion /home/user/work/7/img131.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading file './img131.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:08 DEBUG ./img131.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG 
+Loader started, begin processing: /home/user/work/7/img132.bmp.jpg
+Чтв, 10 Фев 2011 15:03:08 DEBUG Coversion /home/user/work/7/img132.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading file './img132.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:08 DEBUG ./img132.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG 
+Loader started, begin processing: /home/user/work/7/img133.bmp.jpg
+Чтв, 10 Фев 2011 15:03:08 DEBUG Coversion /home/user/work/7/img133.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading file './img133.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:08 DEBUG ./img133.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG 
+Loader started, begin processing: /home/user/work/7/img134.bmp.jpg
+Чтв, 10 Фев 2011 15:03:08 DEBUG Coversion /home/user/work/7/img134.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading file './img134.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:08 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:08 DEBUG ./img134.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img135.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img135.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img135.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img135.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img136.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img136.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img136.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img136.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img137.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img137.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img137.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img137.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img138.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img138.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img138.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img138.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img139.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img139.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img139.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img139.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img140.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img140.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img140.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:09 DEBUG ./img140.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG 
+Loader started, begin processing: /home/user/work/7/img141.bmp.jpg
+Чтв, 10 Фев 2011 15:03:09 DEBUG Coversion /home/user/work/7/img141.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading file './img141.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:09 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img141.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img142.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img142.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img142.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img142.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img143.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img143.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img143.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img143.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img144.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img144.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img144.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img144.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img145.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img145.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img145.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img145.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img146.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img146.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img146.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:10 DEBUG ./img146.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG 
+Loader started, begin processing: /home/user/work/7/img147.bmp.jpg
+Чтв, 10 Фев 2011 15:03:10 DEBUG Coversion /home/user/work/7/img147.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading file './img147.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:10 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:11 DEBUG ./img147.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG 
+Loader started, begin processing: /home/user/work/7/img148.bmp.jpg
+Чтв, 10 Фев 2011 15:03:11 DEBUG Coversion /home/user/work/7/img148.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading file './img148.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:11 DEBUG ./img148.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG 
+Loader started, begin processing: /home/user/work/7/img149.bmp.jpg
+Чтв, 10 Фев 2011 15:03:11 DEBUG Coversion /home/user/work/7/img149.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading file './img149.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:11 DEBUG ./img149.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG 
+Loader started, begin processing: /home/user/work/7/img150.bmp.jpg
+Чтв, 10 Фев 2011 15:03:11 DEBUG Coversion /home/user/work/7/img150.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading file './img150.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:11 DEBUG ./img150.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG 
+Loader started, begin processing: /home/user/work/7/img151.bmp.jpg
+Чтв, 10 Фев 2011 15:03:11 DEBUG Coversion /home/user/work/7/img151.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading file './img151.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:11 DEBUG ./img151.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG 
+Loader started, begin processing: /home/user/work/7/img152.bmp.jpg
+Чтв, 10 Фев 2011 15:03:11 DEBUG Coversion /home/user/work/7/img152.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading file './img152.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:11 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:12 DEBUG ./img152.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG 
+Loader started, begin processing: /home/user/work/7/img153.bmp.jpg
+Чтв, 10 Фев 2011 15:03:12 DEBUG Coversion /home/user/work/7/img153.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading file './img153.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:12 DEBUG ./img153.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG 
+Loader started, begin processing: /home/user/work/7/img154.bmp.jpg
+Чтв, 10 Фев 2011 15:03:12 DEBUG Coversion /home/user/work/7/img154.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading file './img154.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:12 DEBUG ./img154.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG 
+Loader started, begin processing: /home/user/work/7/img155.bmp.jpg
+Чтв, 10 Фев 2011 15:03:12 DEBUG Coversion /home/user/work/7/img155.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading file './img155.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:12 DEBUG ./img155.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG 
+Loader started, begin processing: /home/user/work/7/img156.bmp.jpg
+Чтв, 10 Фев 2011 15:03:12 DEBUG Coversion /home/user/work/7/img156.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading file './img156.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:12 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:12 DEBUG ./img156.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG 
+Loader started, begin processing: /home/user/work/7/img157.bmp.jpg
+Чтв, 10 Фев 2011 15:03:13 DEBUG Coversion /home/user/work/7/img157.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading file './img157.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:13 DEBUG ./img157.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG 
+Loader started, begin processing: /home/user/work/7/img158.bmp.jpg
+Чтв, 10 Фев 2011 15:03:13 DEBUG Coversion /home/user/work/7/img158.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading file './img158.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:13 DEBUG ./img158.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG 
+Loader started, begin processing: /home/user/work/7/img159.bmp.jpg
+Чтв, 10 Фев 2011 15:03:13 DEBUG Coversion /home/user/work/7/img159.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading file './img159.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:13 DEBUG ./img159.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG 
+Loader started, begin processing: /home/user/work/7/img160.bmp.jpg
+Чтв, 10 Фев 2011 15:03:13 DEBUG Coversion /home/user/work/7/img160.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading file './img160.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:13 DEBUG ./img160.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG 
+Loader started, begin processing: /home/user/work/7/img161.bmp.jpg
+Чтв, 10 Фев 2011 15:03:13 DEBUG Coversion /home/user/work/7/img161.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading file './img161.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:13 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img161.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img162.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img162.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img162.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img162.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img163.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img163.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img163.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img163.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img164.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img164.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img164.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img164.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img165.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img165.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img165.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img165.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img166.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img166.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img166.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:14 DEBUG ./img166.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG 
+Loader started, begin processing: /home/user/work/7/img167.bmp.jpg
+Чтв, 10 Фев 2011 15:03:14 DEBUG Coversion /home/user/work/7/img167.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading file './img167.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:14 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img167.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img168.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img168.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img168.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img168.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img169.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img169.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img169.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img169.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img170.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img170.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img170.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img170.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img171.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img171.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img171.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img171.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img172.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img172.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img172.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:15 DEBUG ./img172.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG 
+Loader started, begin processing: /home/user/work/7/img173.bmp.jpg
+Чтв, 10 Фев 2011 15:03:15 DEBUG Coversion /home/user/work/7/img173.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading file './img173.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:15 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img173.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img174.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img174.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img174.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img174.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img175.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img175.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img175.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img175.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img176.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img176.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img176.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img176.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img177.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img177.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img177.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img177.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img178.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img178.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img178.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img178.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG 
+Loader started, begin processing: /home/user/work/7/img179.bmp.jpg
+Чтв, 10 Фев 2011 15:03:16 DEBUG Coversion /home/user/work/7/img179.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading file './img179.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:16 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:16 DEBUG ./img179.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img180.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img180.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img180.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:17 DEBUG ./img180.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img181.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img181.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img181.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:17 DEBUG ./img181.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img182.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img182.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img182.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:17 DEBUG ./img182.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img183.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img183.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img183.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:17 DEBUG ./img183.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img184.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img184.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img184.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:17 DEBUG ./img184.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG 
+Loader started, begin processing: /home/user/work/7/img185.bmp.jpg
+Чтв, 10 Фев 2011 15:03:17 DEBUG Coversion /home/user/work/7/img185.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading file './img185.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:17 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img185.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img186.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img186.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img186.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img186.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img187.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img187.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img187.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img187.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img188.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img188.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img188.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img188.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img189.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img189.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img189.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img189.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img190.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img190.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img190.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:18 DEBUG ./img190.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG 
+Loader started, begin processing: /home/user/work/7/img191.bmp.jpg
+Чтв, 10 Фев 2011 15:03:18 DEBUG Coversion /home/user/work/7/img191.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading file './img191.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:18 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img191.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img192.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img192.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img192.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img192.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img193.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img193.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img193.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img193.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img194.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img194.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img194.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img194.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img195.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img195.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img195.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img195.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img196.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img196.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img196.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:19 DEBUG ./img196.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG 
+Loader started, begin processing: /home/user/work/7/img197.bmp.jpg
+Чтв, 10 Фев 2011 15:03:19 DEBUG Coversion /home/user/work/7/img197.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading file './img197.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:19 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:20 DEBUG ./img197.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG 
+Loader started, begin processing: /home/user/work/7/img198.bmp.jpg
+Чтв, 10 Фев 2011 15:03:20 DEBUG Coversion /home/user/work/7/img198.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading file './img198.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:20 DEBUG ./img198.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG 
+Loader started, begin processing: /home/user/work/7/img199.bmp.jpg
+Чтв, 10 Фев 2011 15:03:20 DEBUG Coversion /home/user/work/7/img199.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading file './img199.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:20 DEBUG ./img199.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG 
+Loader started, begin processing: /home/user/work/7/img200.bmp.jpg
+Чтв, 10 Фев 2011 15:03:20 DEBUG Coversion /home/user/work/7/img200.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading file './img200.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:20 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:20 DEBUG ./img200.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img201.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img201.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img201.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img201.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img202.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img202.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img202.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img202.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img203.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img203.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img203.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img203.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img204.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img204.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img204.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img204.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img205.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img205.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img205.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img205.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img206.bmp.jpg
+Чтв, 10 Фев 2011 15:03:21 DEBUG Coversion /home/user/work/7/img206.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading file './img206.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:21 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:21 DEBUG ./img206.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:21 DEBUG 
+Loader started, begin processing: /home/user/work/7/img207.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img207.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img207.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img207.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG 
+Loader started, begin processing: /home/user/work/7/img208.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img208.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img208.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img208.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG 
+Loader started, begin processing: /home/user/work/7/img209.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img209.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img209.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img209.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG 
+Loader started, begin processing: /home/user/work/7/img210.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img210.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img210.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img210.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG 
+Loader started, begin processing: /home/user/work/7/img211.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img211.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img211.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img211.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG 
+Loader started, begin processing: /home/user/work/7/img212.bmp.jpg
+Чтв, 10 Фев 2011 15:03:22 DEBUG Coversion /home/user/work/7/img212.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading file './img212.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:22 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:22 DEBUG ./img212.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img213.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img213.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img213.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img213.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img214.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img214.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img214.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img214.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img215.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img215.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img215.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img215.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img216.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img216.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img216.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img216.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img217.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img217.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img217.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img217.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img218.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img218.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img218.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:23 DEBUG ./img218.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG 
+Loader started, begin processing: /home/user/work/7/img219.bmp.jpg
+Чтв, 10 Фев 2011 15:03:23 DEBUG Coversion /home/user/work/7/img219.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading file './img219.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:23 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img219.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img220.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img220.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img220.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img220.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img221.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img221.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img221.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img221.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img222.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img222.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img222.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img222.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img223.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img223.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img223.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img223.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img224.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img224.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img224.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:24 DEBUG ./img224.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG 
+Loader started, begin processing: /home/user/work/7/img225.bmp.jpg
+Чтв, 10 Фев 2011 15:03:24 DEBUG Coversion /home/user/work/7/img225.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading file './img225.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:24 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img225.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img226.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img226.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img226.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img226.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img227.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img227.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img227.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img227.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img228.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img228.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img228.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img228.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img229.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img229.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img229.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img229.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img230.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img230.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img230.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:25 DEBUG ./img230.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG 
+Loader started, begin processing: /home/user/work/7/img231.bmp.jpg
+Чтв, 10 Фев 2011 15:03:25 DEBUG Coversion /home/user/work/7/img231.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading file './img231.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:25 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:26 DEBUG ./img231.bmp.jpg.dcm Stored OK.
+Чтв, 10 Фев 2011 15:03:26 DEBUG 
+Loader started, begin processing: /home/user/work/7/img232.bmp.jpg
+Чтв, 10 Фев 2011 15:03:26 DEBUG Coversion /home/user/work/7/img232.bmp.jpg SEEMS OK.
+Чтв, 10 Фев 2011 15:03:26 DEBUG Reading file './img232.bmp.jpg.dcm'
+Чтв, 10 Фев 2011 15:03:26 DEBUG Reading preamble
+Чтв, 10 Фев 2011 15:03:26 DEBUG ./img232.bmp.jpg.dcm Stored OK.
+Mon, 14 Feb 2011 09:06:53 DEBUG 
+App started
