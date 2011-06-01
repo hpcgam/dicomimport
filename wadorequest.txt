@@ -1,0 +1,3 @@
+http://localhost:8080/dcm4chee-web/foldersubmit.m?filter=Search&accessionNumber=123456
+
+http://localhost:8080/dcm4chee-web/foldersubmit.m?filter=Search&patientID=179484/07

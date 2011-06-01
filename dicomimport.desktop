@@ -1,14 +1,21 @@
 [Desktop Entry]
-Encoding=UTF-8
-X-SuSE-translate=true
-Name=DicomImport
-GenericName=script
-Comment=script for export jpgs to dicom.
+Categories=GTK;GNOME;Utility
+Comment[ru]=utility for upload graph files on dicom server
+Comment=utility for upload graph files on dicom server
+Exec=sh /opt/dicomimport/runsrv.sh
+GenericName[ru]=
+GenericName=
+Icon=dic_icon
+MimeType=
+Name[ru]=Dicomimport
+Name=Dicomimport
+NoDisplay=false
+Path=/opt/dicomimport
+StartupNotify=true
 Terminal=true
+TerminalOptions=
 Type=Application
-MimeType=text/plain;
-OnlyShowIn=KDE;
-
-createForAll=true
-
-#Icon=/home/user/Komodo-Edit-6/share/icons/komodo48.png
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

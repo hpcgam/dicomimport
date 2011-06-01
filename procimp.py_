@@ -6,7 +6,7 @@ import subprocess
 import logging
 import dicom
 
-def ConvertAndUpload(filename,dic,logging,cfg, numberInstance):
+def ConvertAndUpload(filename,dic,logging,cfg):
 
     #filenamedcm=cfg.workdir+filename+".dcm" #test for russian language!
     filenamedcm="'"+cfg.workdir+os.path.basename(filename.replace(' ','') )+".dcm"+"'" #test for russian language!
@@ -64,13 +64,7 @@ def ConvertAndUpload(filename,dic,logging,cfg, numberInstance):
     ds.StationName=dic['usr_comp'].encode('ISO_IR 144')
     ds.OperatorsName=dic['pat_login'].encode('ISO_IR 144')
     ds.AcquisitionDate=dic['DateImportStudy']
-    #ds.PhotometricInterpretation='RGB' #dirty hack for 07 server
-#
-#    ds.SeriesNumber     = 1     #0020	0011	Series Number
-#    ds.AcquisitionNumber = numberInstance      #0020	0012	Acquisition Number
-#    ds.InstanceNumber    = numberInstance      #0020	0013	Instance Number
-#  номера должны быть вида 000001 (длина 6 символов?)
-#
+    ds.PhotometricInterpretation='RGB' #dirty hack for 07 server
     ds.SaveAs(fdcm)
 
 ##############################################################################

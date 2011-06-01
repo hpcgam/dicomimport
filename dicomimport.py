@@ -24,7 +24,9 @@ try:
   import dicom
 except ImportError:
   errmess='ERROR-QtCore,QtGui,uic or dicom not found'
+  print errmess
   logging.debug(errmess)
+  raw_input("Press Enter") 
   raise ImportError,errmess
 	
 app = QtGui.QApplication(sys.argv)
@@ -102,8 +104,10 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
         
         dialog = QtGui.QFileDialog()
 #        dialog.setFileMode(QtGui.QFileDialog.AnyFile)
+        dialog.setWindowTitle(u"Выберите файлы для загрузки на дайком сервер")
         dialog.setFileMode(QtGui.QFileDialog.ExistingFiles)
-        dialog.setNameFilters(["Jpeg files (*.jpeg *.jpg)", "All (*)"])
+#        dialog.setNameFilters(["Jpeg files (*.jpeg *.jpg)", "Bitmap (*.bmp)", "All (*)"])
+        dialog.setNameFilters(["Jpeg files (*.jpeg *.jpg)", "Bitmap (*.bmp)"])
         
         dialog.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint) #топмост винд.
         dialog.activateWindow()
@@ -117,7 +121,7 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
             sfiles=[]
             for a in fileslist:
                 sfiles.append(a)
-                
+
             def DrawStateLoadingInList(item, loadstat, v=True):
                 if v:
                     item.setBackgroundColor( QtGui.QColor( 0, 190, 0 ) ); item.setText( item.text()+u'\tЗагружено без ошибок' )
@@ -158,7 +162,7 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
                         loadstat['all']+=1
                         #jpgfilename=str(widget.listWidget.currentItem().text() )
                         jpgfilename=unicode(widget.listWidget.currentItem().text() ).encode( "utf-8" )
-                        if procimp.ConvertAndUpload(jpgfilename , self.pat_rec,logging,cfg) : #конвертация и загрузка прошли успешно
+                        if procimp.ConvertAndUpload(jpgfilename , self.pat_rec,logging,cfg,lcou+1) : #конвертация и загрузка прошли успешно
                             DrawStateLoadingInList(item,loadstat,True)
                         else:			#возникла ошибка при конвертации или загрузке
                             DrawStateLoadingInList(item,loadstat,False)
@@ -199,7 +203,7 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
             sd = datetime.datetime.fromtimestamp(DateCreationStudy)
             val=sd.strftime('%d%m%Y')
             widget.dateEdit.setDate(QtCore.QDate.fromString(val, "ddMMyyyy"))      
-            widget.comboBox.addItem(u'XC - фотографии'); widget.comboBox.addItem(u'EN - эндоскопия'); widget.comboBox.addItem(u'OT - другие')
+            widget.comboBox.addItem(u'US - УЗС'); widget.comboBox.addItem(u'XC - фотографии'); widget.comboBox.addItem(u'ES - эндоскопия'); widget.comboBox.addItem(u'CT - комп.томогр.'); widget.comboBox.addItem(u'OT - другие')
             qlist = QtCore.QStringList(map(QtCore.QString, sfiles))
 
             widget.progressBar.reset()
