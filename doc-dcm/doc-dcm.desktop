@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=GTK;GNOME;Utility
+Comment[ru]=utility for upload graph files on dicom server
+Comment=utility for upload graph files on dicom server
+Exec=sh /opt/doc-dcm/runsrv.sh
+GenericName[ru]=
+GenericName=
+Icon=doc-dcm_icon
+MimeType=
+Name[ru]=doc-dcm
+Name=doc-dcm
+NoDisplay=false
+Path=/opt/doc-dcm
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

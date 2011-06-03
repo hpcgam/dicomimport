@@ -1,0 +1,9 @@
+[cfg]
+workdir = /tmp/
+dcmaetitle = DCM4CHEE
+dcmhost = 192.168.0.7
+httpdhost = localhost
+httpdport = 9966
+logfn = /tmp/endosstore.log
+dcmport = 11112
+

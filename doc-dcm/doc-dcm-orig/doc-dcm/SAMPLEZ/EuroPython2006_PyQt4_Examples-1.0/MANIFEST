@@ -1,0 +1,62 @@
+LICENSE.GPL
+MANIFEST
+README.txt
+setup.py
+Custom Widgets/composite.py
+Custom Widgets/painting.py
+Custom Widgets/Qt Examples/analogclock.py
+Custom Widgets/Qt Examples/charactermap.py
+Custom Widgets/Qt Examples/scribble.py
+Custom Widgets/Qt Examples/wiggly.py
+Database Support/sqlcursorview.py
+Database Support/tablemodel.py
+Item Views/treewidget.py
+Item Views/views.py
+Main Window Classes/simple_mdi.py
+Main Window Classes/dockwidgets/dockwidgets.py
+Main Window Classes/dockwidgets/dockwidgets.qrc
+Main Window Classes/dockwidgets/dockwidgets_rc.py
+Main Window Classes/dockwidgets/images/new.png
+Main Window Classes/dockwidgets/images/print.png
+Main Window Classes/dockwidgets/images/save.png
+Main Window Classes/dockwidgets/images/undo.png
+Main Window Classes/mdi/mdi.py
+Main Window Classes/mdi/mdi.qrc
+Main Window Classes/mdi/mdi_rc.py
+Main Window Classes/mdi/images/copy.png
+Main Window Classes/mdi/images/cut.png
+Main Window Classes/mdi/images/new.png
+Main Window Classes/mdi/images/open.png
+Main Window Classes/mdi/images/paste.png
+Main Window Classes/mdi/images/save.png
+Main Window Classes/sdi/sdi.py
+Main Window Classes/sdi/sdi.qrc
+Main Window Classes/sdi/sdi_rc.py
+Main Window Classes/sdi/images/copy.png
+Main Window Classes/sdi/images/cut.png
+Main Window Classes/sdi/images/new.png
+Main Window Classes/sdi/images/open.png
+Main Window Classes/sdi/images/paste.png
+Main Window Classes/sdi/images/save.png
+Models and Views/image_resources.py
+Models and Views/model.py
+Models and Views/model.qrc
+Models and Views/Pictures/dream.png
+Models and Views/Pictures/teapot.png
+Models and Views/XML Tree Model/treemodel.py
+Models and Views/XML Tree Model/xmltreemodel.ui
+OpenGL Integration/2dpainting.py
+OpenGL Integration/hellogl.py
+Signals and Slots/connections.py
+SVG/svgviewer/svgviewer.py
+SVG/svgviewer/svgviewer.qrc
+SVG/svgviewer/svgviewer_rc.py
+SVG/svgviewer/files/cubic.svg
+SVG/svgviewer/files/spheres.svg
+Using Layouts/gridlayout.py
+Using Layouts/hboxlayout.py
+Using Layouts/vboxlayout.py
+Using Widgets/childwidget.py
+Using Widgets/layout.py
+Using Widgets/toplevel.py
+Writing An Application/creating.py

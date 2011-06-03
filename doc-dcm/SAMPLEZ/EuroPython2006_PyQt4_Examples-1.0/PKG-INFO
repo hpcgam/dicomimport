@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: EuroPython2006_PyQt4_Examples
+Version: 1.0
+Summary: PyQt4 examples from a talk at EuroPython 2006.
+Home-page: http://indico.cern.ch/contributionDisplay.py?contribId=33&sessionId=41&confId=44
+Author: David Boddie
+Author-email: david@boddie.org.uk
+License: UNKNOWN
+Download-URL: http://cheeseshop.python.org/packages/source/E/EuroPython2006_PyQt4_Examples/EuroPython2006_PyQt4_Examples-1.0.zip
+Description: This package contains the examples for the "Introducing PyQt4 for GUI Application Development" talk given at EuroPython 2006 at CERN, Geneva, Switzerland.
+Platform: UNKNOWN
