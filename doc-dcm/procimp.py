@@ -10,7 +10,8 @@ import dicom
 def ConvertAndUpload(filename,dic,cfg,aSeriesDescription):
 	
     #filenamedcm=cfg.workdir+filename+".dcm" #test for russian language!
-	filenamedcm=cfg.workdir+os.path.basename(filename)+".dcm" #test for russian language!
+	filenamedcm=filename+".dcm" #test for russian language!
+
 	logging.info('\nConvertAndUpload, begin processing: '+filename )
 
     # gdcmimg для обработки джпег 2к.
@@ -25,8 +26,7 @@ def ConvertAndUpload(filename,dic,cfg,aSeriesDescription):
 
 	ds=dicom.read_file(filenamedcm)
   
-	if not dic['SeriesStudy']:
-                                                    #if(len(dic['SeriesStudy']) < 1):
+	if not dic['SeriesStudy']:                                                    #if(len(dic['SeriesStudy']) < 1):
 		dic['SeriesStudy']=ds.SeriesInstanceUID+'0'
     
                                                     #ds.SeriesInstanceUID=StydiesSer+ds.SeriesInstanceUID[ds.SeriesInstanceUID.rfind('.'):]
@@ -104,14 +104,12 @@ def ConvertAndUpload(filename,dic,cfg,aSeriesDescription):
 		return False, '','',''
 
 ##############################################################################
-# для загрузки джпег2к использовать перебор параметров стореску j2klossy,j2klossless если все попытки не удались - значит ошибка загрузки на дайкомсервер
-
-  ## пробуем разместить полученный файл в хранилище
+## пробуем разместить полученный файл в хранилище
 	cstr="./bin/storescu  --propose-jpeg8 -aec "+ cfg.dcmaetitle +" "+\
     " "+cfg.dcmhost+" "+ cfg.dcmport +" "+filenamedcm
 
     #print 'DBG cstr',cstr
-
+	
 	if Run([cstr]):
 		logging.error("Storage "+str(filenamedcm)+" failed. The reason above.")
 		return False, '','',''
@@ -119,8 +117,8 @@ def ConvertAndUpload(filename,dic,cfg,aSeriesDescription):
 		logging.info(filenamedcm+" Stored OK.")
 
 	try:
-		#os.remove(filenamedcm)
-		#os.remove(filename)
+		os.remove(filenamedcm)
+		os.remove(filename)
 		pass
 	except IOError, err:
 		logging.error("Error delete file:"+filenamedcm)

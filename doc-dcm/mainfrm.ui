@@ -55,7 +55,7 @@
     <item row="1" column="0">
      <widget class="QPushButton" name="B_export">
       <property name="text">
-       <string>Экспорт</string>
+       <string>Сохранить</string>
       </property>
      </widget>
     </item>

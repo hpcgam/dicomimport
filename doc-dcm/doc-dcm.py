@@ -6,7 +6,6 @@
 import locale
 locale.setlocale(locale.LC_ALL, '')
 """
-сделать сканирование на 72, опционально - на 150
 5. как получать статус сканера "готов"?
 
 1. возможно надо деактивировать кнопку "скан" на время сканирования?
@@ -15,7 +14,6 @@ locale.setlocale(locale.LC_ALL, '')
 4. SOLVED? какое качество выдает save у джепга? ~75
 
 """
-
 import os, sys, glob
 import subprocess
 import logging
@@ -132,23 +130,12 @@ class MainWnd(QtGui.QDialog):
 
         self.activateWindow()
         self.show()
-
-        # есть ли сканеры?
-        sane_version = sane.init()
-        scanners=sane.get_devices()        #        print "scanners", scanners
-        if not scanners:
-            self.errScan(u"Сканер не обнаружен, проверьте подключение сканера.")
-            logging.error("MainWnd _init_: сканер не найден")
-            sane.exit()
-            return
           
-        #self.dirpath='/tmp/'+str( time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime()) )
-        
         tv=os.getenv('TMP') or os.getenv('TEMP') or os.getenv('TMPDIR')
         if not tv: tv= os.getenv('HOME') or os.getenv('USERPROFILE') #tmp variable not found =:(  )
         if tv[-1:] != '/': tv=tv+'/' 
         self.dirpath=tv+str( time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime()) )
-        
+
         if not os.path.exists(self.dirpath):
             try:
                 os.makedirs(self.dirpath)
@@ -158,6 +145,14 @@ class MainWnd(QtGui.QDialog):
                 
         self.scanthread.threadInitialize(self.dirpath)
         
+        # есть ли сканеры?
+        sane_version = sane.init()
+        scanners=sane.get_devices()        #        print "scanners", scanners
+        if not scanners:
+            self.errScan(u"Сканер не обнаружен, проверьте подключение сканера.")
+            logging.error("MainWnd _init_: сканер не найден")
+            sane.exit()
+            return
 
     def DisableButtons(self,ar):
         self.B_export.setDisabled(ar)
@@ -242,7 +237,7 @@ class MainWnd(QtGui.QDialog):
         self.B_scan.setText(u"Сканировать")
         self.DrawCurrStatus()
         self.DisableButtons(False)
-        print "ya error"
+        #print "ya error"
 
     def scanCancelled(self):
         self.B_scan.setText(u"Сканировать")
@@ -273,10 +268,10 @@ class MainWnd(QtGui.QDialog):
 
         if self.scanthread.imWorking:
             self.DrawCurrStatus(u"Прерывание операции...")
-            print "canc"
+            #print "canc"
             self.scanthread.cancelScan()
         else:
-            print "bscabbb"
+            #print "bscabbb"
             self.B_scan.setText(u"Прервать")
             self.DrawCurrStatus(u"Идет сканирование...")
             self.DisableButtons(True)
@@ -343,23 +338,25 @@ class MainWnd(QtGui.QDialog):
     def onB_exit(self):
         devs=sane.get_devices()
         if not devs:
-            print "no dev!"
-            sane.exit()
-            return
-        
+#            print "no dev!"
+            try:
+                sane.exit()
+            except: pass
+ #           return
+        else:
+            try:
+                s=sane.cancel()
+            except: pass
+            #print "dev found:",s
+            
+        self.close()
         #try:
         #    s = sane.open(devs[0][0])
         #except:
         #    print "ошибка открытия сканера"
         #    s.close()
         #    sane.exit()
-        
-        s=sane.cancel()
-        print "ssss:",s
-        return
-    
-        #check for save non exported files!!!
-        self.close()
+
     
 """
 получаемые данные:\
@@ -438,7 +435,6 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
         self.end_headers()
         #self.wfile.write(outmessage) #выскакивает popup
         print outmessage
-
         print 'done'
         
 ###########################################
@@ -446,13 +442,13 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler ):
 class scannerThread(QtCore.QThread):
     def __init__(self, parent = None):
         QtCore.QThread.__init__(self, parent)
-        print 'scannerThread init'
+        #print 'scannerThread init'
         self.imWorking = False
         self.dpi=72
 
     def threadInitialize(self,dirpath):
         self.dirpath=dirpath
-        print 'threadInitialize'
+        #print 'threadInitialize'
         
     def autocrop2(self,im):
         import Image, ImageChops, ImageFilter
@@ -536,17 +532,17 @@ class scannerThread(QtCore.QThread):
         #тестовая секция
         
         self.imWorking = False
-        print "done"
+        #print "done"
         
     def beginScan(self, dpi):
         #self.emit( QtCore.SIGNAL('error(int)'), 1 )
         #self.emit( QtCore.SIGNAL('scanFinished'),u"блаблабла" )
         #return
         self.dpi = dpi
-        print 'begin beginScan(self)'
+        #print 'begin beginScan(self)'
         self.imWorking = True
         self.start()
-        print 'scan done?- beginScan(self)'
+        #print 'scan done?- beginScan(self)'
         self.imWorking = False
 
     def cancelScan(self):
@@ -569,7 +565,7 @@ class scannerThread(QtCore.QThread):
         
     def __del__(self):
         self.wait()
-        print "im deleted"
+        #print "im deleted"
 ###########################################
 
 def main():
